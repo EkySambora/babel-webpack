@@ -6,3 +6,5 @@ const data = [
 ];
 
 const develop = "develop"
+
+const release = "release"
