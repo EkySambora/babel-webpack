@@ -4,7 +4,8 @@ class Test {
         return 'halo testing'
     }
     addAccount(){
-        return 'Add Account'
+        let lorem = 'lorem ipsum dolor sit amet'
+        return lorem
     }
 }
 
