@@ -3,6 +3,9 @@ class Test {
     testing(){
         return 'halo testing'
     }
+    addAccount(){
+        return 'Add Account'
+    }
 }
 
 let _ = new Test
