@@ -5,3 +5,7 @@ const data = [
     {id:2, name:'emran'}
 ];
 let hotfix = 'ini hotfix'
+
+const develop = "develop"
+
+const release = "release"
